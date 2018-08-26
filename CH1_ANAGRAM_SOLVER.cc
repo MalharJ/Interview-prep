@@ -9,8 +9,8 @@
 using namespace std;
 
 int main() {
-	string s1 = "malharq";
-	string s2 = "qalmhra";
+	string s1 = "discriminatorsadder";
+	string s2 = "dreadsdoctrinairism";
 
 	if (s1.size() != s2.size()) {
 		cout << "Not anagrams" << endl;
